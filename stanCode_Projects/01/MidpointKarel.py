@@ -1,6 +1,6 @@
 """
 File: MidpointKarel.py
-Name: 
+Name: Cindy
 ----------------------------
 When you finish writing it, MidpointKarel should
 leave a beeper on the corner closest to the center of 1st Street
