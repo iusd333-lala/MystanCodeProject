@@ -1,6 +1,6 @@
 """
 File: StoneMasonKarel.py
-Name: 
+Name: Cindy
 --------------------------------
 At present, the StoneMasonKarel file does nothing.
 Your job in the assignment is to add the necessary code to
