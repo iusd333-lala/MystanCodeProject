@@ -1,6 +1,6 @@
 """
 File: CollectNewspaperKarel.py
-Name: 
+Name: Cindy
 --------------------------------
 At present, the CollectNewspaperKarel file does nothing.
 Your job in the assignment is to add the necessary code to
