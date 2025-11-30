@@ -1,6 +1,6 @@
 """
 File: CheckerboardKarel.py
-Name: 
+Name: Cindy
 ----------------------------
 When you finish writing it, CheckerboardKarel should draw
 a checkerboard using beepers, as described in Assignment 1. 
