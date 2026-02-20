@@ -1,5 +1,5 @@
 # MystanCodeProject
-### This repository holds my programming projects done during the period of stanCode SC101 course.
+### This repository holds my programming projects done during the period of stanCode SC001 course.
 
 Watch my *[Demo Videos!](https://youtu.be/cUq05q4SFQo)*
 
